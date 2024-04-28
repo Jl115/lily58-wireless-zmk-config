@@ -17,6 +17,24 @@
             key-positions = <42 9>;
             layers = <0>;
         };
+
+        LEFT_PARENTENCIES {
+            bindings = <&kp LEFT_PARENTHESIS>;
+            key-positions = <42 8>;
+            layers = <0>;
+        };
+
+        SHIFT_R_PARENTENCIES {
+            bindings = <&kp RIGHT_PARENTHESIS>;
+            key-positions = <9 43>;
+            layers = <0>;
+        };
+
+        SHIFT_R_LEFT_PARENTENCIES {
+            bindings = <&kp LEFT_PARENTHESIS>;
+            key-positions = <8 43>;
+            layers = <0>;
+        };
     };
 
     keymap {
