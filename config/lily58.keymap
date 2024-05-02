@@ -42,7 +42,7 @@
             layers = <0>;
         };
 
-        at {
+        at2 {
             bindings = <&kp AT>;
             key-positions = <29 57>;
             layers = <0>;
