@@ -95,6 +95,66 @@
             key-positions = <7 57>;
             layers = <0>;
         };
+
+        und {
+            bindings = <&kp AMPS>;
+            key-positions = <6 42>;
+            layers = <0>;
+        };
+
+        und2 {
+            bindings = <&kp AMPS>;
+            key-positions = <6 43>;
+            layers = <0>;
+        };
+
+        percent {
+            bindings = <&kp PRCNT>;
+            key-positions = <43 5>;
+            layers = <0>;
+        };
+
+        perc {
+            bindings = <&kp PRCNT>;
+            key-positions = <5 42>;
+            layers = <0>;
+        };
+
+        mal {
+            bindings = <&kp ASTRK>;
+            key-positions = <42 4>;
+            layers = <0>;
+        };
+
+        mal2 {
+            bindings = <&kp ASTRK>;
+            key-positions = <4 43>;
+            layers = <0>;
+        };
+
+        dq {
+            bindings = <&kp DQT>;
+            key-positions = <43 3>;
+            layers = <0>;
+        };
+
+        dq2 {
+            bindings = <&kp DQT>;
+            key-positions = <3 42>;
+            layers = <0>;
+        };
+
+        plus {
+            bindings = <&kp PLUS>;
+            key-positions = <42 2>;
+            layers = <0>;
+        };
+
+        plus2 {
+            bindings = <&kp PLUS>;
+            key-positions = <2 43>;
+            layers = <0>;
+        };
     };
 
     keymap {
