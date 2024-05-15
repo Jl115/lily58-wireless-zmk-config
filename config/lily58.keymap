@@ -48,7 +48,7 @@
             layers = <0>;
         };
 
-        left-brackets {
+        left-brackets2 {
             bindings = <&kp LEFT_BRACE>;
             key-positions = <8 57>;
             layers = <0>;
